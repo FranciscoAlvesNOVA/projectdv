@@ -10,8 +10,6 @@ numpy
 matplotlib
 WordCloud
 BytesIO
-wordcloud
-dash
 Input
 Output
 dash.dependencies
