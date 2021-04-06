@@ -9,5 +9,4 @@ pandas
 numpy
 matplotlib
 wordcloud
-warnings
 px
