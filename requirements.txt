@@ -9,6 +9,5 @@ pandas
 numpy
 matplotlib
 wordcloud
-make_subplots
 warnings
 px
