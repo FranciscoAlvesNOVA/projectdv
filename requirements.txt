@@ -11,5 +11,4 @@ matplotlib
 WordCloud
 Input
 Output
-dash.dependencies
 plotly.graph_objs
