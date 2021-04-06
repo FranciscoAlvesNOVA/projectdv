@@ -9,7 +9,6 @@ pandas
 numpy
 matplotlib
 WordCloud
-BytesIO
 Input
 Output
 dash.dependencies
