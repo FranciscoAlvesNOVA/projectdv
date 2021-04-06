@@ -11,4 +11,3 @@ matplotlib
 WordCloud
 Input
 Output
-plotly.graph_objs
